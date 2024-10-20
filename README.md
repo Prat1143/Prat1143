@@ -4,12 +4,12 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: prathamesh](https://www.linkedin.com/in/prathamesh-malondkar-112b37169/)
+[![Linkedin: prathamesh](https://www.linkedin.com/in/prathamesh-malondkar-112b37169/)]
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const prathamesh = {
+const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "PHP"],
     askMeAbout: ["web dev", "app dev", "UI/UX", "tech trends"],
